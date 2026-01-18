@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+openai
+faiss-gpu
+numpy
+python-dotenv
+langchain
+# 文档处理
+pypdf==4.1.0
+tiktoken==0.5.2
+
+# 工具
+pydantic==2.6.0
+python-dotenv==1.0.0
+
+# 测试
+pytest==7.4.4
+pytest-asyncio==0.21.1
+httpx==0.26.0
