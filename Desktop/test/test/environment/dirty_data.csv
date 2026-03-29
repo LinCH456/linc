@@ -1,0 +1,14 @@
+name,age,city,email
+John Doe,28,New York,john@example.com
+  Alice Smith ,32,Los Angeles,alice@example.com
+
+Bob Wilson,45,Chicago,bob@example.com
+,30,Houston,test@test.com
+Charlie Brown, ,San Francisco,charlie@example.com
+"Special@Chars#Here",25,Miami,special@example.com
+Empty Fields,,,
+
+Jane Doe,29,Seattle,jane@example.com
+  Trailing  Spaces  ,35,Phoenix,trailing@example.com
+Invalid@Email,40,Denver,not-an-email
+LastRow,50,Boston,last@example.com
